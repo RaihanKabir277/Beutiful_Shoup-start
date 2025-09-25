@@ -1,7 +1,7 @@
 # 📰 Hacker News Web Scraper
 
 This project demonstrates **static web scraping** and **live web scraping** using [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) and [Requests](https://docs.python-requests.org/).  
-It extracts article titles, links, and upvote counts from Hacker News (both the static practice site and the live site), then identifies the **most upvoted article**.
+It extracts article titles, links, and upvote counts from Hacker News (both the static practice site and the live site), then identifies the **most upvoted article** for both live and static.
 
 ---
 
